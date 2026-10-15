@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "reverse_2.C": "cpp",
+        "stdio.h": "c",
+        "EXAM.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "cstdlib": "cpp",
+        "regex": "cpp",
+        "complex": "cpp",
+        "initializer_list": "cpp",
+        "numeric": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
